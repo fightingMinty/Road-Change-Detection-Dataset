@@ -1,4 +1,4 @@
-# WHU road change detection dataset 
+# Road change detection dataset
 
 ## [UGRoadUpd: An Unchanged-Guided Historical Road Database Updating Framework Based on Bi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9815123)
 
