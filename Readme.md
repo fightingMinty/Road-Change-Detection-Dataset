@@ -1,7 +1,6 @@
 # WHU road change detection dataset 
 
-## UGRoadUpd
-Paper [UGRoadUpd: An Unchanged-Guided Historical Road Database Updating Framework Based on Bi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9815123)
+## [UGRoadUpd: An Unchanged-Guided Historical Road Database Updating Framework Based on Bi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9815123)
 
 ## CRCD Dataset
 
